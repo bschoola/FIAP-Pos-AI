@@ -1,0 +1,38 @@
+O mercado financeiro internacional tem acompanhado com apreensão o ruído em torno de uma possível crise nos fundos de crédito privado direto nos Estados Unidos. Com o aumento de manchetes sugerindo que veículos bilionários estão travando resgates e que as carteiras estão à beira de um colapso devido à exposição ao setor de tecnologia, a pergunta mais comum é se estamos diante de uma crise sistêmica – e se ela pode afetar o mercado brasileiro de alguma forma. 
+
+Para Ian Caó, CIO da Gama Investimentos (parte do Grupo HMC Capital), o estresse é fruto de uma correção técnica e de fluxo, sem derretimento de fundamentos. Para ele, portanto, não há crise. 
+
+Em entrevista ao InfoMoney, o especialista explicou a dinâmica complexa desse mercado, mostrando como a mudança na composição dos investidores, o excesso de liquidez e o avanço da inteligência artificial criaram a “tempestade perfeita” das narrativas.
+
+O papel dos BDCs
+Para entender o que está acontecendo, é preciso traduzir o jargão. O que os americanos chamam de private debt não é exatamente o que conhecemos como crédito privado no Brasil. Trata-se de empréstimos feitos por gestoras diretamente a médias e grandes empresas, fora dos balanços dos bancos tradicionais.
+
+Nos EUA, uma grande fatia desse mercado opera através de veículos chamados BDCs (Business Development Companies). “Os BDCs foram criados pelo governo americano para incentivar o financiamento de pequenas e médias empresas. Eles possuem uma série de benefícios fiscais, distribuindo 90% dos lucros, mas em troca sofrem um escrutínio de governança muito rígido. Vários deles são listados em bolsa”, explica o CIO da Gama Investimentos.
+
+E é aqui que está o ruído recente: os BDCs possuem um valor patrimonial (o NAV – Net Asset Value, que avalia quanto vale a carteira de empréstimos) e um preço de tela (o valor pelo qual as cotas são negociadas na Bolsa). Como nos fundos imobiliários brasileiros, esses dois valores podem descolar violentamente quando o mercado entra em pânico.
+
+A narrativa do colapso
+O segmento de private debt cresceu de forma vertiginosa na última década, atraindo trilhões de dólares. Antes de a “crise” estourar, o mercado já operava com spreads (o prêmio de risco) historicamente baixos. “O mercado já levantava que os spreads estavam comprimidos. Havia muita competição pelos ativos”, nota Caó.
+
+O estopim para o estresse recente foi uma narrativa ligada ao Vale do Silício. “Esse espaço de private debt tem uma exposição relevante à indústria de software (variando de 5% a 20% das carteiras dos grandes fundos). O mercado olhou para o avanço da inteligência artificial e pensou: ‘se essas empresas de software que fazem serviços facilmente substituíveis por IA virarem pó, esses fundos vão tomar um prejuízo danado'”, resume o especialista.
+
+O medo de que a IA destruísse as empresas de software que tomaram dinheiro emprestado gerou uma onda de vendas. “Aí vira aquela profecia autorrealizável. O mercado, principalmente o varejo, ao ouvir essa história, saiu vendendo desesperado”, relata Caó.
+
+O resultado? As cotas dos BDCs listados despencaram até 30% na Bolsa. No entanto, o gestor ressalta que essa queda de preço reflete um desacasamento entre oferta e demanda, e não a realidade dos balanços. “No fundo, o que importa em crédito é: o cara vai pagar ou não vai pagar? E os números recentes dos fundos indicam que a inadimplência não subiu. O NAV (valor real da carteira) caiu coisa de 1% a 1,5%, enquanto o preço na tela desabou muito mais”, pondera.
+
+Gate não é calote
+A confusão aumentou quando os fundos Evergreen (fundos fechados que permitem resgates periódicos) começaram a limitar os saques. Muitos investidores, lembrando das crises de liquidez no Brasil em 2020, interpretaram a limitação (gate) como um sinal de que os fundos estavam quebrando.
+
+Caó é enfático ao desmentir essa visão. O private debt nasceu como um produto institucional, similar ao private equity, onde o dinheiro fica travado por anos para casar com o prazo dos empréstimos. Para democratizar o acesso, criaram-se os fundos Evergreen que oferecem liquidez limitada — geralmente 5% por trimestre.
+
+“No regulamento já está escrito que a liquidez é de 5%. Se o fundo tem uma carteira com duração de dois anos, ele não pode dar liquidez diária. Esse limite existe para proteger o investidor. Se ficarem abrindo mão desse limite, os fundos perdem a própria identidade”, explica o CIO da Gama.
+
+Leia também: IA, commodities e energia limpa: os quatro pilares que fazem o gringo querer o Brasil
+Quando o pânico da indústria de software estourou, os pedidos de resgate saltaram para até 11%. Cumprindo a regra que já existia, os fundos ratearam o limite: quem pediu 100% de resgate, recebeu 50% agora e o restante ficou para a próxima janela, por exemplo. “Não é um problema de liquidez, não é um problema de preço. Tudo isso está funcionando bem, mas temos um mercado sensível e agora a história dos softwares”. 
+
+Fundamentos vs Tela
+Para Ian Caó, a potencial deterioração de métricas por conta da Inteligência Artificial “parece muito superestimada” e o cenário atual “não é uma crise sistêmica”. O estresse visto nas telas é, na verdade, o efeito colateral de dar liquidez a um mercado que historicamente não a tinha.
+
+“Nesse tipo de ativo você não tinha acesso a nenhum tipo de liquidez. Na hora que você deu um tipo de liquidez, pelo fato de serem ativos listados, o preço desse ativo acaba se comportando ao som das narrativas de mercado”, explica o CIO.
+
+Ele conclui lembrando que “quanto mais liquidez e mais transparente for, mais ele vai reagir às narrativas”, mas que a regra de ouro do crédito segue inalterada, independentemente do pânico na Bolsa: no fim, importa se os devedores vão ou não pagar. E, para o especialista, não há sinais de deterioração relevante que justifiquem os descontos atuais.
